@@ -1,5 +1,5 @@
 # Coded-Ninja-Face
- [alt text](code ninja face.png)
+ [alt text]()
 A Ninja Face made with HTML and CSS.
 -
 Made for fun by Michael A. Trombi 2021
